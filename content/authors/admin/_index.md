@@ -55,9 +55,9 @@ education:
   - area: PhD Information Engineering
     institution: Tokyo University
     date_start: ''
-    date_end: 2002-12
+    date_end: 2002-12-13
     summary: |
-      Thesis on Efficient Components for Cryptographic Applications in the Discrete-Log Setting. Supervised by Prof [Hideki Imai](https://www.rcis.aist.go.jp/about/message-en.html).
+      Title: "Efficient Components for Cryptographic Applications in the Discrete-Log Setting." Supervised by Prof [Hideki Imai](https://www.rcis.aist.go.jp/about/message-en.html).
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
