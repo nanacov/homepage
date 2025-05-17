@@ -87,7 +87,7 @@ work:
     company_name: NTT 
     company_url: ''
     company_logo: ''
-    date_start: 1992-04
+    date_start: 1992-04-01
     date_end: ''
     summary: |2-
       Head of Crypto Research Group at NTT Social Informatics Laboratories
