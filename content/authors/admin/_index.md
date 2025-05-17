@@ -63,8 +63,8 @@ education:
 #      url: 'https://example.com'
   - area: MEng on Speaker Identification
     institution: Science University of Tokyo
-    date_start: 1990-04
-    date_end: 1992-03
+    date_start: 1990-04-01
+    date_end: 1992-03-31
 #    summary: |
 #
 #      Courses included:
@@ -73,8 +73,8 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc on Image Processing for Radar Screens
     institution: Science University of Tokyo
-    date_start: 1986-04
-    date_end: 1990-03
+    date_start: 1986-04-01
+    date_end: 1990-03-31
   #  summary: |
   #    GPA: 3.4/4.0
       
@@ -97,7 +97,7 @@ work:
     company_name: Koto University
     company_url: ''
     company_logo: ''
-    date_start: 2018-04
+    date_start: 2018-04-01
     date_end: ''
     summary: |
       Abe-Tibouchi Laboratories
@@ -153,7 +153,7 @@ languages:
 awards:
   - title: IACR Fellow
     url: https://www.iacr.org/fellows/2022/abe.html
-    date: '2022-04'
+    date: 2022-04-01
     awarder: International Association for Cryptologic Research
     # icon: coursera
     summary: |
