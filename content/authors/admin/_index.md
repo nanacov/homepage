@@ -93,8 +93,7 @@ work:
     date_end: ''
     summary: |2-
       Head of Crypto Research Group at NTT Social Informatics Laboratories
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
   - position: Guest Professor
     company_name: Koto University, Graduate School of Informatics
     company_url: https://www.i.kyoto-u.ac.jp/
@@ -103,9 +102,6 @@ work:
     date_end: ''
     summary: |
       Abe-Tibouchi Laboratories
-      # - Migrated infrastructure to a new data center
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
