@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: bluewave_14394.svg
+          filename: bluewave_1439449977.svg
           filters:
             brightness: 1.0
           size: cover
