@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Masayuki ABE's Personal Homepage
+title: Masayuki ABE
 
 # Name pronunciation (optional)
-name_pronunciation: Masayuki Abe
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Masayuki
@@ -11,7 +11,7 @@ last_name: Abe
 
 # Status emoji
 status:
-  icon: 🔋
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,14 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Guest Professor
+role: Cryptographer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: NTT Social Informatics Laboratories
+    url: https://www.rd.ntt/sil/
   - name: Kyoto University
-    url: https://www.i.kyoto-u.ac.jp/
+    url: https://security-kouza.github.io/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,18 +40,18 @@ profiles:
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/nanacov
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/masayuki-abe-1b51a892/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=sjhfZ_kAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0006-1614-0587
 
 interests:
   - Cryptography
   - Information Security
-  - Blockchain Tech
+  - Fintech
 
 education:
   - area: PhD Information Engineering
@@ -85,7 +87,7 @@ education:
 work:
   - position: Fellow
     company_name: NTT 
-    company_url: ''
+    company_url: https://www.rd.ntt/sil/
     company_logo: ''
     date_start: 1992-04-01
     date_end: ''
@@ -94,8 +96,8 @@ work:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Guest Professor
-    company_name: Koto University
-    company_url: ''
+    company_name: Koto University, Graduate School of Informatics
+    company_url: https://www.i.kyoto-u.ac.jp/
     company_logo: ''
     date_start: 2018-04-01
     date_end: ''
@@ -179,8 +181,6 @@ awards:
 ---
 
 ## About Me
-I am a cryptographer at NTT, where I have been working since 1992. My introduction to public-key cryptography came from Tatsuaki Okamoto, sparking a career focused on cryptographic primitives and protocols. Over the years, I have had the privilege of visiting Prof. Ueli Maurer's group at ETH Zurich in 1996 and the Crypto Group at IBM Watson, led by Tal Rabin, in 2004—both experiences were inspiring and transformative.
+I am a cryptographer at NTT, where I have been working since 1992. My introduction to public-key cryptography came from Tatsuaki Okamoto, sparking a career focused on cryptographic primitives and protocols. Over the years, I have had the privilege of visiting Prof. Ueli Maurer's group at ETH Zurich in 1996 and the Crypto Group at IBM Watson, led by Tal Rabin, in 2004—both experiences were inspiring and transformative. Since 2013, I have also been affiliated with Kyoto University, where I lead the Abe-Tibouchi Laboratory (formerly the Okamoto-Abe Laboratory) and collaborate with motivated students on a wide range of research topics in cryptography.
 
-Since 2013, I have also been affiliated with Kyoto University, where I lead the Abe-Tibouchi Laboratory (formerly the Okamoto-Abe Laboratory). It is a pleasure to collaborate with motivated students on a wide range of research topics in cryptography.
-
-A bit about my personal life. I live and work in the western part of Tokyo. Love to listen to piano music, and tweak my tube audio. Grow plants in the balcony. (It tells me many things -- like in the old movie "Being There (1979)".) Addicted to coffee. Love to watch science-fiction movies.
+A bit about my personal life. I live and work in the western part of Tokyo. Love to listen to piano music, and tweak my tube audio. Grow plants in the balcony. Addicted to coffee.
