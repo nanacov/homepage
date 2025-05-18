@@ -54,7 +54,7 @@ interests:
   - Fintech
 
 education:
-  - area: PhD Information Engineering
+  - area: PhD on Cryptography
     institution: Tokyo University
     date_start: ''
     date_end: 2002-12-13
