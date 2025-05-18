@@ -1,0 +1,13 @@
+---
+title: Secure Multiparty Computation with Free Branching
+authors:
+- Aarushi Goel
+- Mathias Hall-Andersen
+- Aditya Hegde
+- Abhishek Jain
+date: '2022-01-01'
+publishDate: '2025-05-18T16:29:49.973890Z'
+publication_types:
+- paper-conference
+publication: '*Advances in Cryptology -- EUROCRYPT 2022*'
+---
