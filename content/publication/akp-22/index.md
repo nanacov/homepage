@@ -1,0 +1,15 @@
+---
+title: 'Verifiable Relation Sharing and Multi-Verifier Zero-Knowledge in Two Rounds:
+  Trading Nizks with Honest Majority'
+authors:
+- Benny Applebaum
+- Eliran Kachlon
+- Arpita Patra
+date: '2022-01-01'
+publishDate: '2025-05-18T16:29:46.932593Z'
+publication_types:
+- paper-conference
+publication: '*Advances in Cryptology - CRYPTO 2022 - 42nd Annual International Cryptology
+  Conference, CRYPTO 2022, Santa Barbara, CA, USA, August 13-18, 2022, Proceedings,
+  Part IV*'
+---
