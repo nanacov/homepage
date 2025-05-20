@@ -49,12 +49,12 @@ profiles:
     url: https://orcid.org/0009-0006-1614-0587
 
 interests:
-  - Cryptography
-  - Information Security
-  - Fintech
+  - Digital Signatures, Proof Systems, Protocol Compositions
+  - Cryptographic Protocol Design, Blockchain Apps
+  - Privacy and Anonymity
 
 education:
-  - area: PhD on Cryptography
+  - area: PhD in Cryptography
     institution: Tokyo University
     date_start: ''
     date_end: 2002-12-13
@@ -63,7 +63,7 @@ education:
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
-  - area: MEng on Speaker Identification
+  - area: MEng in Speaker Identification
     institution: Science University of Tokyo
     date_start: 1990-04-01
     date_end: 1992-03-31
@@ -73,7 +73,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc on Image Processing for Radar Screens
+  - area: BSc in Image Processing for Radar Screens
     institution: Science University of Tokyo
     date_start: 1986-04-01
     date_end: 1990-03-31
