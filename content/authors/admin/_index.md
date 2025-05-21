@@ -26,7 +26,7 @@ role: Cryptographer
 organizations:
   - name: NTT Social Informatics Laboratories
     url: https://www.rd.ntt/sil/
-  - name: Kyoto University, Graduate School of Informatics
+  - name: Graduate School of Informatics, Kyoto University
     url: https://security-kouza.github.io/index.html
 
 # Social network links
