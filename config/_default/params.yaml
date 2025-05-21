@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {2025} Masayuki Abe. This work is licensed under {license}'
+    notice: '©2025 Masayuki Abe. All rights reserved.'
     license:
       enable: false
       allow_derivatives: false
