@@ -32,12 +32,19 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 Research Activities'
+      title: '📚 Recent Publications'
       subtitle: ''
       text: |-
         I enjoy working with people visiting NTT or students at Kyoto University. Please reach out to collaborate 😃
-    design:
-      columns: '1'
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+      design:
+        columns: '1'
+      view: citation
+    # design:
+    #   columns: '1'
   # - block: collection
   #   id: papers
   #   content:
@@ -49,16 +56,16 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
   # - block: collection
   #   id: talks
   #   content:
