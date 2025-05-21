@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: collection
     content:
       title: '📚 Recent Publications'
       subtitle: ''
@@ -41,8 +41,7 @@ sections:
           - publication
         exclude_featured: false
       design:
-        columns: '1'
-      view: citation
+        view: citation
     # design:
     #   columns: '1'
   # - block: collection
