@@ -40,11 +40,11 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '©2025 Masayuki Abe. All rights reserved.'
+    notice: ''
     license:
       enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
